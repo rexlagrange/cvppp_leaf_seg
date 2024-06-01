@@ -11,4 +11,5 @@ To enable the support of BiFPN follow these steps:
 3 edit tasks.py in nn foler
 
   add "from ultralytics.peng_injection_bifpn.parse_model import parse_model"
-  rename the original parse_model function in task.py
+  
+  then rename or delete the original parse_model function in task.py
