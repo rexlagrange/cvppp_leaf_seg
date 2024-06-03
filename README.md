@@ -13,3 +13,7 @@ To enable the support of BiFPN follow these steps:
   add "from ultralytics.peng_injection_bifpn.parse_model import parse_model"
   
   then rename or delete the original parse_model function in task.py
+
+The pre-trained weight can be downloaded from here.
+
+https://pan.baidu.com/s/1Lq9NXFov-HLLHYo82X6JYQ?pwd=leaf
